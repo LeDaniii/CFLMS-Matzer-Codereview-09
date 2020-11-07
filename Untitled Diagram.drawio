@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T01:43:55.652Z" agent="5.0 (Windows)" etag="YS_5gRF86AykgWHccWpf" version="13.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-07T01:54:21.242Z" agent="5.0 (Windows)" etag="yYwu9EGaKs2lOOT7PvM7" version="13.7.1" type="github" pages="4">
   <diagram id="OgtsXj5TOIKroZt_IxXi" name="Page-1">
     <mxGraphModel dx="1699" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
         <mxCell id="Wj2Ol9DpK9GPu0gB7bDS-32" value="fk_empl_id" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FF9933;" vertex="1" parent="Wj2Ol9DpK9GPu0gB7bDS-25">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Wj2Ol9DpK9GPu0gB7bDS-33" value="fk_loc_id" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FF9933;" vertex="1" parent="Wj2Ol9DpK9GPu0gB7bDS-25">
+        <mxCell id="Wj2Ol9DpK9GPu0gB7bDS-33" value="fk_postshop_id" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FF9933;" vertex="1" parent="Wj2Ol9DpK9GPu0gB7bDS-25">
           <mxGeometry y="182" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MRyMSR-TdpXSW9EtgNnp-13" value="fk_mail_carries" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FF9933;" vertex="1" parent="Wj2Ol9DpK9GPu0gB7bDS-25">
