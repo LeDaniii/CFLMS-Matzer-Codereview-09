@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T01:06:12.623Z" agent="5.0 (Windows)" etag="kprFBMEUInzBpMy6ZyHj" version="13.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-07T01:43:55.652Z" agent="5.0 (Windows)" etag="YS_5gRF86AykgWHccWpf" version="13.7.1" type="github" pages="4">
   <diagram id="OgtsXj5TOIKroZt_IxXi" name="Page-1">
     <mxGraphModel dx="1699" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -418,7 +418,7 @@
         <mxCell id="Wj2Ol9DpK9GPu0gB7bDS-28" value="end_time" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#2a2a2a;" vertex="1" parent="Wj2Ol9DpK9GPu0gB7bDS-25">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MRyMSR-TdpXSW9EtgNnp-27" value="Action" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#2a2a2a;" vertex="1" parent="Wj2Ol9DpK9GPu0gB7bDS-25">
+        <mxCell id="MRyMSR-TdpXSW9EtgNnp-27" value="Action      enum" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#2a2a2a;" vertex="1" parent="Wj2Ol9DpK9GPu0gB7bDS-25">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Wj2Ol9DpK9GPu0gB7bDS-31" value="fk_pack_id" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FF9933;" vertex="1" parent="Wj2Ol9DpK9GPu0gB7bDS-25">
